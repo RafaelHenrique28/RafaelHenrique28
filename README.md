@@ -1,6 +1,6 @@
 ### Ola, sou Rafael.  :pencil:
 <br>
-Sou programador front End, atualmente estou aprendendo e criando projetos com:
+Sou programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
